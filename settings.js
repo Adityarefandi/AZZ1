@@ -9,7 +9,7 @@ global.APIs = {
 // Other
 global.owner = ['6282244877433']
 global.premium = ['6282244877433']
-global.youtube = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+global.youtube = 'https://youtube.com/channel/UC4c3unHcqGs4PJ5m24Q0YsQ'
 global.ownername = '𝙰𝚍𝚒𝚝𝚢𝚊 𝚁𝚎𝚏𝚊𝚗𝚍𝚒☘︎'
 global.botname ='D͟i͟t͟z͟_M͟d͟ꨄ︎'
 global.donasi = {
